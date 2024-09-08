@@ -5,7 +5,7 @@ It offers different views and functionalities based on the role of the user (Adm
 
 ## Features
 
-### Admin View:
+### 1. Admin View:
 ### Screenshot
 //
 1. **Dashboard Screen**:
@@ -21,7 +21,7 @@ It offers different views and functionalities based on the role of the user (Adm
    - Sign-out functionality.
    - About login person.
 
-### Manager View:
+### 2. Manager View:
 ### Screenshot
 //
 1. **Dashboard Screen**:
@@ -35,7 +35,7 @@ It offers different views and functionalities based on the role of the user (Adm
    - Sign-out functionality.
    - About login person.
 
-### Employee View:
+### 3. Employee View:
 ### Screenshot
 //
 1. **Detail Screen**:
