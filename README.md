@@ -5,8 +5,8 @@ It offers different views and functionalities based on the role of the user (Adm
 
 ## Features
 
-### Admin View:
-## Screenshot
+## Admin View:
+# Screenshot
 //
 1. **Dashboard Screen**:
    - Displays the total number of employees, teams.
@@ -21,8 +21,8 @@ It offers different views and functionalities based on the role of the user (Adm
    - Sign-out functionality.
    - About login person.
 
-### Manager View:
-## Screenshot
+## Manager View:
+# Screenshot
 //
 1. **Dashboard Screen**:
    - Displays the total number of employees in the manager's team.
@@ -35,8 +35,8 @@ It offers different views and functionalities based on the role of the user (Adm
    - Sign-out functionality.
    - About login person.
 
-### Employee View:
-## Screenshot
+## Employee View:
+# Screenshot
 //
 1. **Detail Screen**:
    - Displays personal details of the logged-in employee.
