@@ -52,7 +52,7 @@ It offers different views and functionalities based on the role of the user (Adm
 ## Additional Features
 
 - **Material Design 3**: The app fully utilizes Material Design 3, providing a modern UI experience with dynamic theming and adaptive components.
-- **Forgot Password**: Users can reset their passwords using the Forgot Password option available on the login screen and in the settings.
+- **Forgot Password**: Users can reset their passwords using the Forgot Password option available on the login screen .
 
 ## Tech Stack
 
