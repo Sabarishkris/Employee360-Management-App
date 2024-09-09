@@ -3,6 +3,12 @@
 Employee360 is a role-based employee management application designed with Kotlin and Jetpack Compose.
 It offers different views and functionalities based on the role of the user (Admin, Manager, or Employee).
 
+## Admin Login Credential 
+**Admin Email**:
+   - admin@email.com.
+**Admin Password**:
+   - admin
+
 ## Features
 ### Login View 
 ![login](https://github.com/user-attachments/assets/1e35f0a3-8e0b-4985-aec8-d30a510e4513)
@@ -46,7 +52,7 @@ It offers different views and functionalities based on the role of the user (Adm
 1. **Detail Screen**:
    - Displays personal details of the logged-in employee.
 
-2. **Settings Screen**:
+2. **App Bar**:
    - Sign-out functionality.
 
 ## Additional Features
