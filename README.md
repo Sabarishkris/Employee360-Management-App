@@ -8,9 +8,14 @@ It offers different views and functionalities based on the role of the user (Adm
    - admin@email.com.
    - admin (password)
 
+
 ## Features
 ### Login View 
 ![login](https://github.com/user-attachments/assets/1e35f0a3-8e0b-4985-aec8-d30a510e4513)
+
+## Login Flow
+![Concept map - Page 1](https://github.com/user-attachments/assets/6e572831-8281-446d-80a0-740c04179da5)
+
 
 ### 1. Admin View:
 ### Screenshot
