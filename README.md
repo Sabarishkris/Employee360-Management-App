@@ -6,8 +6,7 @@ It offers different views and functionalities based on the role of the user (Adm
 ## Admin Login Credential 
 **Admin Email**:
    - admin@email.com.
-**Admin Password**:
-   - admin
+   - admin (password)
 
 ## Features
 ### Login View 
